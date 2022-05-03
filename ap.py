@@ -4,7 +4,7 @@ import pandas as pd
 
 st.title("Question Answering")
 st.text("Hi, we are Frenki, Benjamin & Patrik and our goal is to build an application that ultimately answers")
-st.text("all your questions regarding celebrities! :)  This application uses Deep Learning algorithms to automate this challenge")
+st.text("ALL your questions regarding celebrities! :)  This application uses Deep Learning algorithms to automate this challenge!")
 
 
 @st.cache
