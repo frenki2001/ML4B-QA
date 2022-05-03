@@ -2,12 +2,9 @@ import random
 import streamlit as st
 import pandas as pd
 
-st.title("Image Caption Generator")
-st.text("Hello, we are Jonas, Moritz and Ole and our goal is to build, explain and present")
-st.text("an image caption generator using Deep Learning and Neural Networks. We use these")
-st.text("two subtypes of machine learning, as the combination of the two is closest to ")
-st.text("the way humans analyze images.")
-st.text("")
+st.title("Question Answering")
+st.text("Hi, we are Frenki, Benjamin & Patrik and our goal is to build an application that ultimately answers")
+st.text("all your questions regarding celebrities! :)  This application uses Deep Learning algorithms to automate this challenge")
 
 
 @st.cache
