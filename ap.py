@@ -30,5 +30,5 @@ def get_image():
     st.write(url)
 
 
-if st.button("Get a random image from the dataset."):
+if st.button("Get a random question."):
     get_image()
