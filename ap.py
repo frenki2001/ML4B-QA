@@ -17,7 +17,7 @@ def load_data():
 data_load_state = st.subheader("Loading data...")
 df = load_data()
 
-data_load_state.subheader("Comparison generated caption vs. real caption:")
+data_load_state.subheader("Generated questions and related answers about Michael Jackson:")
 
 
 def get_image():
